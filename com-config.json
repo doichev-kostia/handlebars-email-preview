@@ -1,0 +1,9 @@
+{
+  "mytheme": {
+    "password-reset": {
+      "theme": "mytheme",
+      "body": "password-reset",
+      "title": "Reset password"
+    }
+  }
+}
